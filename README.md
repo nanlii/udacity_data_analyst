@@ -1,4 +1,4 @@
-# udacity-data-analyst
+# udacity_data_analyst
 [**Udacity Data Analyst Nanodegree Program**](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 >The goal of the data analyst program is to use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions. 
